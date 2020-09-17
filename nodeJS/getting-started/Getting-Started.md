@@ -39,13 +39,13 @@ This section contains questions for you to check your understanding of this less
 </ul></ul>
 </details>
 <details>
-<summary>What is the command for installing a package locally in with npm?</summary>
+<summary>What is the command for installing a package locally with npm?</summary>
 <ul><ul>
   <li>npm install `package-name`</li>
 </ul></ul>
 </details>
 <details>
-<summary>What is the command for installing a package globally in with npm?</summary>
+<summary>What is the command for installing a package globally with npm?</summary>
 <ul><ul>
   <li>npm install -g `package-name`</li>
 </ul></ul>
